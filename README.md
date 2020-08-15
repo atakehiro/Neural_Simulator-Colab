@@ -12,4 +12,4 @@ Googleアカウントにログインした状態で下記のURLからアクセ�
 デモ１ https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/Brian1.ipynb
 
 ## Future Plan
-Nengoなどのデモコードも作成する予定。
+BindsNetやNengoなどのデモコードも作成する予定。
