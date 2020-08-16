@@ -16,5 +16,7 @@ Googleアカウントにログインした状態で下記のURLを開くだけ�
 
 デモコード https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/BindsNET.ipynb
 
-## Future Plan
-Nengoなどのデモコードも作成する予定です。
+## Nengo　デモコード
+Googleアカウントにログインした状態で下記のURLを開くだけで試すことが出来ます。
+
+デモコード https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/Nengo.ipynb
