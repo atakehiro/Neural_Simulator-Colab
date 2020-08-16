@@ -20,3 +20,15 @@ Googleアカウントにログインした状態で下記のURLを開くだけ�
 Googleアカウントにログインした状態で下記のURLを開くだけで試すことが出来ます。
 
 デモコード https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/Nengo.ipynb
+
+## Author
+Takehiro Ajioka 
+
+E-mail:1790651m@stu.kobe-u.ac.jp
+
+
+## Affiliation
+
+Department of Physiology, Kobe University School of Medicine
+
+神戸大学医学研究科　生理学分野
