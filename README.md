@@ -4,24 +4,16 @@ Google Colabを使って神経シミュレータを試すためのデモコー�
 
 Googleアカウントにログインした状態で下記のURLを開くだけで試すことが出来ます。
 
-## NEURON デモコード
-デモコードURL
-
+### NEURON デモコード
 https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/NEURON.ipynb
 
-## Brian デモコード
-デモコードURL
-
+### Brian デモコード
 https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/Brian.ipynb
 
-## BindsNET デモコード
-デモコードURL
-
+### BindsNET デモコード
 https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/BindsNET.ipynb
 
-## Nengo デモコード
-デモコードURL
-
+### Nengo デモコード
 https://colab.research.google.com/github/atakehiro/Neural_Simulator-Colab/blob/master/Nengo.ipynb
 
 ## Author
